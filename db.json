@@ -4,36 +4,36 @@
 			"id": "23",
 			"firstName": "CARLOS",
 			"age": 55,
-			"companyID": "1"
+			"companyId": "1"
 		},
 		{
 			"id": "21",
 			"firstName": "ADA",
 			"age": 5,
-			"companyID": "2"
+			"companyId": "2"
 		},
 		{
 			"id": "33",
 			"firstName": "BOB",
 			"age": 45,
-			"companyID": "1"
+			"companyId": "1"
 		},
 		{
 			"id": "13",
 			"firstName": "TYAN",
 			"age": 85,
-			"companyID": "3"
+			"companyId": "3"
 		},
 		{
 			"id": "53",
 			"firstName": "CHENG",
 			"age": 85,
-			"companyID": "2"
+			"companyId": "2"
 		}
 	],
 	"companies": [
-		{ "id": "1", "name": "Apple", "description": "iphone" },
-		{ "id": "2", "name": "EGF", "description": "oil" },
-		{ "id": "3", "name": "Google", "description": "chrome" }
+		{ "id": "1", "name": "Apple", "description": "iphone maker" },
+		{ "id": "2", "name": "EGF", "description": "oil & Gas" },
+		{ "id": "3", "name": "Google", "description": "chrome developer" }
 	]
 }
