@@ -1,0 +1,27 @@
+{
+  "name": "playgroundgraphQL",
+  "version": "1.0.0",
+  "description": "Setting up  a single page App with ReactJS and GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molinacarlosdev/playgroundgraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molinacarlosdev/playgroundgraphQL/issues"
+  },
+  "homepage": "https://github.com/molinacarlosdev/playgroundgraphQL#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.6.12",
+    "graphql": "^14.0.2",
+    "lodash": "^4.17.11",
+    "nodemon": "^1.18.5"
+  }
+}
